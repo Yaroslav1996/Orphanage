@@ -1,0 +1,1761 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12004, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_PixelRect:
+    serializedVersion: 2
+    x: 0
+    y: 43
+    width: 1920
+    height: 997
+  m_ShowMode: 4
+  m_Title: 
+  m_RootView: {fileID: 2}
+  m_MinSize: {x: 950, y: 544}
+  m_MaxSize: {x: 10000, y: 10000}
+--- !u!114 &2
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12008, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 3}
+  - {fileID: 5}
+  - {fileID: 4}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1920
+    height: 997
+  m_MinSize: {x: 950, y: 300}
+  m_MaxSize: {x: 10000, y: 10000}
+--- !u!114 &3
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12011, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1920
+    height: 30
+  m_MinSize: {x: 0, y: 0}
+  m_MaxSize: {x: 0, y: 0}
+  m_LastLoadedLayoutName: 
+--- !u!114 &4
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12042, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 977
+    width: 1920
+    height: 20
+  m_MinSize: {x: 0, y: 0}
+  m_MaxSize: {x: 0, y: 0}
+--- !u!114 &5
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 6}
+  - {fileID: 11}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 30
+    width: 1920
+    height: 947
+  m_MinSize: {x: 683, y: 494}
+  m_MaxSize: {x: 14004, y: 14044}
+  vertical: 0
+  controlID: 133
+--- !u!114 &6
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 7}
+  - {fileID: 10}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1455
+    height: 947
+  m_MinSize: {x: 406, y: 494}
+  m_MaxSize: {x: 10002, y: 14044}
+  vertical: 1
+  controlID: 54
+--- !u!114 &7
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 8}
+  - {fileID: 9}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1455
+    height: 550
+  m_MinSize: {x: 406, y: 222}
+  m_MaxSize: {x: 8006, y: 4022}
+  vertical: 0
+  controlID: 55
+--- !u!114 &8
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 349
+    height: 550
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 14}
+  m_Panes:
+  - {fileID: 14}
+  m_Selected: 0
+  m_LastSelected: 0
+--- !u!114 &9
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 349
+    y: 0
+    width: 1106
+    height: 550
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 13}
+  m_Panes:
+  - {fileID: 15}
+  - {fileID: 13}
+  - {fileID: 16}
+  - {fileID: 17}
+  - {fileID: 12}
+  m_Selected: 1
+  m_LastSelected: 0
+--- !u!114 &10
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 550
+    width: 1455
+    height: 397
+  m_MinSize: {x: 232, y: 272}
+  m_MaxSize: {x: 10002, y: 10022}
+  m_ActualView: {fileID: 18}
+  m_Panes:
+  - {fileID: 18}
+  m_Selected: 0
+  m_LastSelected: 0
+--- !u!114 &11
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 1455
+    y: 0
+    width: 465
+    height: 947
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 19}
+  m_Panes:
+  - {fileID: 19}
+  - {fileID: 20}
+  - {fileID: 21}
+  - {fileID: 22}
+  - {fileID: 23}
+  m_Selected: 0
+  m_LastSelected: 1
+--- !u!114 &12
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13401, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Test Runner
+    m_Image: {fileID: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 349
+    y: 73
+    width: 1104
+    height: 531
+  m_ViewDataDictionary: {fileID: 0}
+  m_TestTypeToolbarIndex: 1
+  m_PlayModeTestListGUI:
+    m_Window: {fileID: 12}
+    newResultList:
+    - id: 1022
+      uniqueId: '[Orphanage][suite]'
+      name: Orphanage
+      fullName: Orphanage
+      resultStatus: 1
+      duration: 0.0070728
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 
+      parentUniqueId: 
+    m_ResultText: 
+    m_ResultStacktrace: 
+    m_TestListState:
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 2714b35affffff7f
+      m_RenameOverlay:
+        m_UserAcceptedRename: 0
+        m_Name: 
+        m_OriginalName: 
+        m_EditFieldRect:
+          serializedVersion: 2
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+        m_UserData: 0
+        m_IsWaitingForDelay: 0
+        m_IsRenaming: 0
+        m_OriginalEventType: 11
+        m_IsRenamingFilename: 0
+        m_ClientGUIView: {fileID: 0}
+      m_SearchString: 
+    m_TestRunnerUIFilter:
+      PassedHidden: 0
+      FailedHidden: 0
+      NotRunHidden: 0
+      m_SearchString: 
+      selectedCategoryMask: 0
+      availableCategories:
+      - Uncategorized
+  m_EditModeTestListGUI:
+    m_Window: {fileID: 12}
+    newResultList:
+    - id: 1000
+      uniqueId: '[Orphanage][suite]'
+      name: Orphanage
+      fullName: Orphanage
+      resultStatus: 1
+      duration: 1.9071575
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 
+      parentUniqueId: 
+    - id: 1042
+      uniqueId: '[D:/Unity Projects/Orphanage/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll][suite]'
+      name: Assembly-CSharp-Editor.dll
+      fullName: D:/Unity Projects/Orphanage/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+      resultStatus: 1
+      duration: 1.5734514
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1002
+      parentUniqueId: '[Orphanage][suite]'
+    - id: 1047
+      uniqueId: Assembly-CSharp-Editor.dll/[DataManagementTests][suite]
+      name: DataManagementTests
+      fullName: DataManagementTests
+      resultStatus: 1
+      duration: 0.6835974
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1042
+      parentUniqueId: '[D:/Unity Projects/Orphanage/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll][suite]'
+    - id: 1038
+      uniqueId: Assembly-CSharp-Editor.dll/DataManagementTests/[Assembly-CSharp-Editor][DataManagementTests.BaseDataTests][suite]
+      name: BaseDataTests
+      fullName: DataManagementTests.BaseDataTests
+      resultStatus: 1
+      duration: 0.6639493
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1047
+      parentUniqueId: Assembly-CSharp-Editor.dll/[DataManagementTests][suite]
+    - id: 1041
+      uniqueId: Assembly-CSharp-Editor.dll/DataManagementTests/BaseDataTests/[Assembly-CSharp-Editor][DataManagementTests.BaseDataTests.CheckStoryRequirements_RequirementsReturnValue_ReturnsValue][suite]
+      name: CheckStoryRequirements_RequirementsReturnValue_ReturnsValue
+      fullName: DataManagementTests.BaseDataTests.CheckStoryRequirements_RequirementsReturnValue_ReturnsValue
+      resultStatus: 1
+      duration: 0.6397958
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1038
+      parentUniqueId: Assembly-CSharp-Editor.dll/DataManagementTests/[Assembly-CSharp-Editor][DataManagementTests.BaseDataTests][suite]
+    - id: 1039
+      uniqueId: Assembly-CSharp-Editor.dll/DataManagementTests/BaseDataTests/CheckStoryRequirements_RequirementsReturnValue_ReturnsValue/[Assembly-CSharp-Editor][DataManagementTests.BaseDataTests.CheckStoryRequirements_RequirementsReturnValue_ReturnsValue(True)]
+      name: CheckStoryRequirements_RequirementsReturnValue_ReturnsValue(True)
+      fullName: DataManagementTests.BaseDataTests.CheckStoryRequirements_RequirementsReturnValue_ReturnsValue(True)
+      resultStatus: 1
+      duration: 0.5955032
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1041
+      parentUniqueId: Assembly-CSharp-Editor.dll/DataManagementTests/BaseDataTests/[Assembly-CSharp-Editor][DataManagementTests.BaseDataTests.CheckStoryRequirements_RequirementsReturnValue_ReturnsValue][suite]
+    - id: 1040
+      uniqueId: Assembly-CSharp-Editor.dll/DataManagementTests/BaseDataTests/CheckStoryRequirements_RequirementsReturnValue_ReturnsValue/[Assembly-CSharp-Editor][DataManagementTests.BaseDataTests.CheckStoryRequirements_RequirementsReturnValue_ReturnsValue(False)]
+      name: CheckStoryRequirements_RequirementsReturnValue_ReturnsValue(False)
+      fullName: DataManagementTests.BaseDataTests.CheckStoryRequirements_RequirementsReturnValue_ReturnsValue(False)
+      resultStatus: 1
+      duration: 0.0029123
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1041
+      parentUniqueId: Assembly-CSharp-Editor.dll/DataManagementTests/BaseDataTests/[Assembly-CSharp-Editor][DataManagementTests.BaseDataTests.CheckStoryRequirements_RequirementsReturnValue_ReturnsValue][suite]
+    - id: 1046
+      uniqueId: Assembly-CSharp-Editor.dll/[GameSystemTests][suite]
+      name: GameSystemTests
+      fullName: GameSystemTests
+      resultStatus: 1
+      duration: 0.2702555
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1042
+      parentUniqueId: '[D:/Unity Projects/Orphanage/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll][suite]'
+    - id: 1027
+      uniqueId: Assembly-CSharp-Editor.dll/GameSystemTests/[Assembly-CSharp-Editor][GameSystemTests.GameManagerTests][suite]
+      name: GameManagerTests
+      fullName: GameSystemTests.GameManagerTests
+      resultStatus: 1
+      duration: 0.2108153
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1046
+      parentUniqueId: Assembly-CSharp-Editor.dll/[GameSystemTests][suite]
+    - id: 1032
+      uniqueId: Assembly-CSharp-Editor.dll/GameSystemTests/GameManagerTests/[Assembly-CSharp-Editor][GameSystemTests.GameManagerTests.LoadBaseData_LoadsData]
+      name: LoadBaseData_LoadsData
+      fullName: GameSystemTests.GameManagerTests.LoadBaseData_LoadsData
+      resultStatus: 1
+      duration: 0.0825048
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1027
+      parentUniqueId: Assembly-CSharp-Editor.dll/GameSystemTests/[Assembly-CSharp-Editor][GameSystemTests.GameManagerTests][suite]
+    - id: 1031
+      uniqueId: Assembly-CSharp-Editor.dll/GameSystemTests/GameManagerTests/[Assembly-CSharp-Editor][GameSystemTests.GameManagerTests.LoadBaseData_UsesLoadMethod]
+      name: LoadBaseData_UsesLoadMethod
+      fullName: GameSystemTests.GameManagerTests.LoadBaseData_UsesLoadMethod
+      resultStatus: 1
+      duration: 0.0077174
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1027
+      parentUniqueId: Assembly-CSharp-Editor.dll/GameSystemTests/[Assembly-CSharp-Editor][GameSystemTests.GameManagerTests][suite]
+    - id: 1030
+      uniqueId: Assembly-CSharp-Editor.dll/GameSystemTests/GameManagerTests/[Assembly-CSharp-Editor][GameSystemTests.GameManagerTests.LoadGame_ReturnsGameData]
+      name: LoadGame_ReturnsGameData
+      fullName: GameSystemTests.GameManagerTests.LoadGame_ReturnsGameData
+      resultStatus: 1
+      duration: 0.0081999
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1027
+      parentUniqueId: Assembly-CSharp-Editor.dll/GameSystemTests/[Assembly-CSharp-Editor][GameSystemTests.GameManagerTests][suite]
+    - id: 1029
+      uniqueId: Assembly-CSharp-Editor.dll/GameSystemTests/GameManagerTests/[Assembly-CSharp-Editor][GameSystemTests.GameManagerTests.LoadGame_UsesLoadMethod]
+      name: LoadGame_UsesLoadMethod
+      fullName: GameSystemTests.GameManagerTests.LoadGame_UsesLoadMethod
+      resultStatus: 1
+      duration: 0.0023651
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1027
+      parentUniqueId: Assembly-CSharp-Editor.dll/GameSystemTests/[Assembly-CSharp-Editor][GameSystemTests.GameManagerTests][suite]
+    - id: 1028
+      uniqueId: Assembly-CSharp-Editor.dll/GameSystemTests/GameManagerTests/[Assembly-CSharp-Editor][GameSystemTests.GameManagerTests.SaveGame_UsesSaveMethod]
+      name: SaveGame_UsesSaveMethod
+      fullName: GameSystemTests.GameManagerTests.SaveGame_UsesSaveMethod
+      resultStatus: 1
+      duration: 0.0019603
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1027
+      parentUniqueId: Assembly-CSharp-Editor.dll/GameSystemTests/[Assembly-CSharp-Editor][GameSystemTests.GameManagerTests][suite]
+    - id: 1033
+      uniqueId: Assembly-CSharp-Editor.dll/GameSystemTests/GameManagerTests/[Assembly-CSharp-Editor][GameSystemTests.GameManagerTests.StartGame_IsCalled_SetupScene]
+      name: StartGame_IsCalled_SetupScene
+      fullName: GameSystemTests.GameManagerTests.StartGame_IsCalled_SetupScene
+      resultStatus: 1
+      duration: 0.0588494
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1027
+      parentUniqueId: Assembly-CSharp-Editor.dll/GameSystemTests/[Assembly-CSharp-Editor][GameSystemTests.GameManagerTests][suite]
+    - id: 1034
+      uniqueId: Assembly-CSharp-Editor.dll/GameSystemTests/GameManagerTests/[Assembly-CSharp-Editor][GameSystemTests.GameManagerTests.StartGame_IsCalled_StartIntro]
+      name: StartGame_IsCalled_StartIntro
+      fullName: GameSystemTests.GameManagerTests.StartGame_IsCalled_StartIntro
+      resultStatus: 1
+      duration: 0.0018762
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1027
+      parentUniqueId: Assembly-CSharp-Editor.dll/GameSystemTests/[Assembly-CSharp-Editor][GameSystemTests.GameManagerTests][suite]
+    - id: 1037
+      uniqueId: Assembly-CSharp-Editor.dll/GameSystemTests/GameManagerTests/[Assembly-CSharp-Editor][GameSystemTests.GameManagerTests.StartTurn_HasViableStories_BeginsTurn]
+      name: StartTurn_HasViableStories_BeginsTurn
+      fullName: GameSystemTests.GameManagerTests.StartTurn_HasViableStories_BeginsTurn
+      resultStatus: 1
+      duration: 0.013031
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1027
+      parentUniqueId: Assembly-CSharp-Editor.dll/GameSystemTests/[Assembly-CSharp-Editor][GameSystemTests.GameManagerTests][suite]
+    - id: 1035
+      uniqueId: Assembly-CSharp-Editor.dll/GameSystemTests/GameManagerTests/[Assembly-CSharp-Editor][GameSystemTests.GameManagerTests.StartTurn_IsCalled_CreateTurnManager]
+      name: StartTurn_IsCalled_CreateTurnManager
+      fullName: GameSystemTests.GameManagerTests.StartTurn_IsCalled_CreateTurnManager
+      resultStatus: 1
+      duration: 0.0019715
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1027
+      parentUniqueId: Assembly-CSharp-Editor.dll/GameSystemTests/[Assembly-CSharp-Editor][GameSystemTests.GameManagerTests][suite]
+    - id: 1036
+      uniqueId: Assembly-CSharp-Editor.dll/GameSystemTests/GameManagerTests/[Assembly-CSharp-Editor][GameSystemTests.GameManagerTests.StartTurn_IsCalled_GetsViableStories]
+      name: StartTurn_IsCalled_GetsViableStories
+      fullName: GameSystemTests.GameManagerTests.StartTurn_IsCalled_GetsViableStories
+      resultStatus: 1
+      duration: 0.0018849
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1027
+      parentUniqueId: Assembly-CSharp-Editor.dll/GameSystemTests/[Assembly-CSharp-Editor][GameSystemTests.GameManagerTests][suite]
+    - id: 1043
+      uniqueId: Assembly-CSharp-Editor.dll/[StoryManagementTests][suite]
+      name: StoryManagementTests
+      fullName: StoryManagementTests
+      resultStatus: 1
+      duration: 0.3998177
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1042
+      parentUniqueId: '[D:/Unity Projects/Orphanage/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll][suite]'
+    - id: 1003
+      uniqueId: Assembly-CSharp-Editor.dll/StoryManagementTests/[Assembly-CSharp-Editor][StoryManagementTests.GameDataTests][suite]
+      name: GameDataTests
+      fullName: StoryManagementTests.GameDataTests
+      resultStatus: 1
+      duration: 0.0545471
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1043
+      parentUniqueId: Assembly-CSharp-Editor.dll/[StoryManagementTests][suite]
+    - id: 1009
+      uniqueId: Assembly-CSharp-Editor.dll/StoryManagementTests/GameDataTests/[Assembly-CSharp-Editor][StoryManagementTests.GameDataTests.AddPerson_IsCalledWithOrphan_AddRelationsToOldOrphans]
+      name: AddPerson_IsCalledWithOrphan_AddRelationsToOldOrphans
+      fullName: StoryManagementTests.GameDataTests.AddPerson_IsCalledWithOrphan_AddRelationsToOldOrphans
+      resultStatus: 1
+      duration: 0.0068899
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1003
+      parentUniqueId: Assembly-CSharp-Editor.dll/StoryManagementTests/[Assembly-CSharp-Editor][StoryManagementTests.GameDataTests][suite]
+    - id: 1013
+      uniqueId: Assembly-CSharp-Editor.dll/StoryManagementTests/GameDataTests/[Assembly-CSharp-Editor][StoryManagementTests.GameDataTests.AddPerson_IsCalledWithOrphan_AddRelationsToPersonel]
+      name: AddPerson_IsCalledWithOrphan_AddRelationsToPersonel
+      fullName: StoryManagementTests.GameDataTests.AddPerson_IsCalledWithOrphan_AddRelationsToPersonel
+      resultStatus: 1
+      duration: 0.0024621
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1003
+      parentUniqueId: Assembly-CSharp-Editor.dll/StoryManagementTests/[Assembly-CSharp-Editor][StoryManagementTests.GameDataTests][suite]
+    - id: 1012
+      uniqueId: Assembly-CSharp-Editor.dll/StoryManagementTests/GameDataTests/[Assembly-CSharp-Editor][StoryManagementTests.GameDataTests.AddPerson_IsCalledWithOrphan_AddsRelationsWithPersonel]
+      name: AddPerson_IsCalledWithOrphan_AddsRelationsWithPersonel
+      fullName: StoryManagementTests.GameDataTests.AddPerson_IsCalledWithOrphan_AddsRelationsWithPersonel
+      resultStatus: 1
+      duration: 0.0013882
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1003
+      parentUniqueId: Assembly-CSharp-Editor.dll/StoryManagementTests/[Assembly-CSharp-Editor][StoryManagementTests.GameDataTests][suite]
+    - id: 1008
+      uniqueId: Assembly-CSharp-Editor.dll/StoryManagementTests/GameDataTests/[Assembly-CSharp-Editor][StoryManagementTests.GameDataTests.AddPerson_IsCalledWithOrphan_AddsRelationToNewOrphan]
+      name: AddPerson_IsCalledWithOrphan_AddsRelationToNewOrphan
+      fullName: StoryManagementTests.GameDataTests.AddPerson_IsCalledWithOrphan_AddsRelationToNewOrphan
+      resultStatus: 1
+      duration: 0.0012626
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1003
+      parentUniqueId: Assembly-CSharp-Editor.dll/StoryManagementTests/[Assembly-CSharp-Editor][StoryManagementTests.GameDataTests][suite]
+    - id: 1007
+      uniqueId: Assembly-CSharp-Editor.dll/StoryManagementTests/GameDataTests/[Assembly-CSharp-Editor][StoryManagementTests.GameDataTests.AddPerson_IsCalledWithOrphan_AddToOrphanList]
+      name: AddPerson_IsCalledWithOrphan_AddToOrphanList
+      fullName: StoryManagementTests.GameDataTests.AddPerson_IsCalledWithOrphan_AddToOrphanList
+      resultStatus: 1
+      duration: 0.0009
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1003
+      parentUniqueId: Assembly-CSharp-Editor.dll/StoryManagementTests/[Assembly-CSharp-Editor][StoryManagementTests.GameDataTests][suite]
+    - id: 1010
+      uniqueId: Assembly-CSharp-Editor.dll/StoryManagementTests/GameDataTests/[Assembly-CSharp-Editor][StoryManagementTests.GameDataTests.AddPerson_IsCalledWithPerson_AddsRelationsWithOrphans]
+      name: AddPerson_IsCalledWithPerson_AddsRelationsWithOrphans
+      fullName: StoryManagementTests.GameDataTests.AddPerson_IsCalledWithPerson_AddsRelationsWithOrphans
+      resultStatus: 1
+      duration: 0.0013171
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1003
+      parentUniqueId: Assembly-CSharp-Editor.dll/StoryManagementTests/[Assembly-CSharp-Editor][StoryManagementTests.GameDataTests][suite]
+    - id: 1011
+      uniqueId: Assembly-CSharp-Editor.dll/StoryManagementTests/GameDataTests/[Assembly-CSharp-Editor][StoryManagementTests.GameDataTests.AddPerson_IsCalledWithPerson_AddsRelationToOrphans]
+      name: AddPerson_IsCalledWithPerson_AddsRelationToOrphans
+      fullName: StoryManagementTests.GameDataTests.AddPerson_IsCalledWithPerson_AddsRelationToOrphans
+      resultStatus: 1
+      duration: 0.0016158
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1003
+      parentUniqueId: Assembly-CSharp-Editor.dll/StoryManagementTests/[Assembly-CSharp-Editor][StoryManagementTests.GameDataTests][suite]
+    - id: 1005
+      uniqueId: Assembly-CSharp-Editor.dll/StoryManagementTests/GameDataTests/[Assembly-CSharp-Editor][StoryManagementTests.GameDataTests.AddPerson_IsCalledWithPersonel_AddsRelationsToNewPerson]
+      name: AddPerson_IsCalledWithPersonel_AddsRelationsToNewPerson
+      fullName: StoryManagementTests.GameDataTests.AddPerson_IsCalledWithPersonel_AddsRelationsToNewPerson
+      resultStatus: 1
+      duration: 0.0012148
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1003
+      parentUniqueId: Assembly-CSharp-Editor.dll/StoryManagementTests/[Assembly-CSharp-Editor][StoryManagementTests.GameDataTests][suite]
+    - id: 1006
+      uniqueId: Assembly-CSharp-Editor.dll/StoryManagementTests/GameDataTests/[Assembly-CSharp-Editor][StoryManagementTests.GameDataTests.AddPerson_IsCalledWithPersonel_AddsRelationToOldPeople]
+      name: AddPerson_IsCalledWithPersonel_AddsRelationToOldPeople
+      fullName: StoryManagementTests.GameDataTests.AddPerson_IsCalledWithPersonel_AddsRelationToOldPeople
+      resultStatus: 1
+      duration: 0.001568
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1003
+      parentUniqueId: Assembly-CSharp-Editor.dll/StoryManagementTests/[Assembly-CSharp-Editor][StoryManagementTests.GameDataTests][suite]
+    - id: 1004
+      uniqueId: Assembly-CSharp-Editor.dll/StoryManagementTests/GameDataTests/[Assembly-CSharp-Editor][StoryManagementTests.GameDataTests.AddPerson_IsCalledWithPersonel_AddsToPersonelList]
+      name: AddPerson_IsCalledWithPersonel_AddsToPersonelList
+      fullName: StoryManagementTests.GameDataTests.AddPerson_IsCalledWithPersonel_AddsToPersonelList
+      resultStatus: 1
+      duration: 0.0006589
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1003
+      parentUniqueId: Assembly-CSharp-Editor.dll/StoryManagementTests/[Assembly-CSharp-Editor][StoryManagementTests.GameDataTests][suite]
+    - id: 1045
+      uniqueId: Assembly-CSharp-Editor.dll/StoryManagementTests/[StoryManagementTests.GameProgressTests][suite]
+      name: GameProgressTests
+      fullName: StoryManagementTests.GameProgressTests
+      resultStatus: 1
+      duration: 0.0731463
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1043
+      parentUniqueId: Assembly-CSharp-Editor.dll/[StoryManagementTests][suite]
+    - id: 1021
+      uniqueId: Assembly-CSharp-Editor.dll/StoryManagementTests/GameProgressTests/[Assembly-CSharp-Editor][StoryManagementTests.GameProgressTests.PersonTests][suite]
+      name: PersonTests
+      fullName: StoryManagementTests.GameProgressTests.PersonTests
+      resultStatus: 1
+      duration: 0.0067196
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1045
+      parentUniqueId: Assembly-CSharp-Editor.dll/StoryManagementTests/[StoryManagementTests.GameProgressTests][suite]
+    - id: 1022
+      uniqueId: Assembly-CSharp-Editor.dll/StoryManagementTests/GameProgressTests/PersonTests/[Assembly-CSharp-Editor][StoryManagementTests.GameProgressTests.PersonTests.AddRelation_IsCalled_AddsRelation]
+      name: AddRelation_IsCalled_AddsRelation
+      fullName: StoryManagementTests.GameProgressTests.PersonTests.AddRelation_IsCalled_AddsRelation
+      resultStatus: 1
+      duration: 0.0012845
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1021
+      parentUniqueId: Assembly-CSharp-Editor.dll/StoryManagementTests/GameProgressTests/[Assembly-CSharp-Editor][StoryManagementTests.GameProgressTests.PersonTests][suite]
+    - id: 1023
+      uniqueId: Assembly-CSharp-Editor.dll/StoryManagementTests/GameProgressTests/[Assembly-CSharp-Editor][StoryManagementTests.GameProgressTests.StoryTests][suite]
+      name: StoryTests
+      fullName: StoryManagementTests.GameProgressTests.StoryTests
+      resultStatus: 1
+      duration: 0.0378327
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1045
+      parentUniqueId: Assembly-CSharp-Editor.dll/StoryManagementTests/[StoryManagementTests.GameProgressTests][suite]
+    - id: 1026
+      uniqueId: Assembly-CSharp-Editor.dll/StoryManagementTests/GameProgressTests/StoryTests/[Assembly-CSharp-Editor][StoryManagementTests.GameProgressTests.StoryTests.CanHappen_RequirementReturnesValue_ReturnesValue][suite]
+      name: CanHappen_RequirementReturnesValue_ReturnesValue
+      fullName: StoryManagementTests.GameProgressTests.StoryTests.CanHappen_RequirementReturnesValue_ReturnesValue
+      resultStatus: 1
+      duration: 0.0177427
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1023
+      parentUniqueId: Assembly-CSharp-Editor.dll/StoryManagementTests/GameProgressTests/[Assembly-CSharp-Editor][StoryManagementTests.GameProgressTests.StoryTests][suite]
+    - id: 1024
+      uniqueId: Assembly-CSharp-Editor.dll/StoryManagementTests/GameProgressTests/StoryTests/CanHappen_RequirementReturnesValue_ReturnesValue/[Assembly-CSharp-Editor][StoryManagementTests.GameProgressTests.StoryTests.CanHappen_RequirementReturnesValue_ReturnesValue(True)]
+      name: CanHappen_RequirementReturnesValue_ReturnesValue(True)
+      fullName: StoryManagementTests.GameProgressTests.StoryTests.CanHappen_RequirementReturnesValue_ReturnesValue(True)
+      resultStatus: 1
+      duration: 0.0088796
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1026
+      parentUniqueId: Assembly-CSharp-Editor.dll/StoryManagementTests/GameProgressTests/StoryTests/[Assembly-CSharp-Editor][StoryManagementTests.GameProgressTests.StoryTests.CanHappen_RequirementReturnesValue_ReturnesValue][suite]
+    - id: 1025
+      uniqueId: Assembly-CSharp-Editor.dll/StoryManagementTests/GameProgressTests/StoryTests/CanHappen_RequirementReturnesValue_ReturnesValue/[Assembly-CSharp-Editor][StoryManagementTests.GameProgressTests.StoryTests.CanHappen_RequirementReturnesValue_ReturnesValue(False)]
+      name: CanHappen_RequirementReturnesValue_ReturnesValue(False)
+      fullName: StoryManagementTests.GameProgressTests.StoryTests.CanHappen_RequirementReturnesValue_ReturnesValue(False)
+      resultStatus: 1
+      duration: 0.0013216
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1026
+      parentUniqueId: Assembly-CSharp-Editor.dll/StoryManagementTests/GameProgressTests/StoryTests/[Assembly-CSharp-Editor][StoryManagementTests.GameProgressTests.StoryTests.CanHappen_RequirementReturnesValue_ReturnesValue][suite]
+    - id: 1044
+      uniqueId: Assembly-CSharp-Editor.dll/StoryManagementTests/[StoryManagementTests.TurnManagementTests][suite]
+      name: TurnManagementTests
+      fullName: StoryManagementTests.TurnManagementTests
+      resultStatus: 1
+      duration: 0.1391822
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1043
+      parentUniqueId: Assembly-CSharp-Editor.dll/[StoryManagementTests][suite]
+    - id: 1014
+      uniqueId: Assembly-CSharp-Editor.dll/StoryManagementTests/TurnManagementTests/[Assembly-CSharp-Editor][StoryManagementTests.TurnManagementTests.TurnManagerTests][suite]
+      name: TurnManagerTests
+      fullName: StoryManagementTests.TurnManagementTests.TurnManagerTests
+      resultStatus: 1
+      duration: 0.0921174
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1044
+      parentUniqueId: Assembly-CSharp-Editor.dll/StoryManagementTests/[StoryManagementTests.TurnManagementTests][suite]
+    - id: 1015
+      uniqueId: Assembly-CSharp-Editor.dll/StoryManagementTests/TurnManagementTests/TurnManagerTests/[Assembly-CSharp-Editor][StoryManagementTests.TurnManagementTests.TurnManagerTests.GetViableStories_IsCalled_GetsViableStory]
+      name: GetViableStories_IsCalled_GetsViableStory
+      fullName: StoryManagementTests.TurnManagementTests.TurnManagerTests.GetViableStories_IsCalled_GetsViableStory
+      resultStatus: 1
+      duration: 0.0295831
+      messages: 
+      output: "You are trying to create a MonoBehaviour using the 'new' keyword.  This
+        is not allowed.  MonoBehaviours can only be added using AddComponent(). Alternatively,
+        your script can inherit from ScriptableObject or no base class at all\r\n"
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1014
+      parentUniqueId: Assembly-CSharp-Editor.dll/StoryManagementTests/TurnManagementTests/[Assembly-CSharp-Editor][StoryManagementTests.TurnManagementTests.TurnManagerTests][suite]
+    - id: 1017
+      uniqueId: Assembly-CSharp-Editor.dll/StoryManagementTests/TurnManagementTests/TurnManagerTests/[Assembly-CSharp-Editor][StoryManagementTests.TurnManagementTests.TurnManagerTests.GetViableStories_IsCalled_RejectsDoneStories]
+      name: GetViableStories_IsCalled_RejectsDoneStories
+      fullName: StoryManagementTests.TurnManagementTests.TurnManagerTests.GetViableStories_IsCalled_RejectsDoneStories
+      resultStatus: 1
+      duration: 0.0036881
+      messages: 
+      output: "You are trying to create a MonoBehaviour using the 'new' keyword.  This
+        is not allowed.  MonoBehaviours can only be added using AddComponent(). Alternatively,
+        your script can inherit from ScriptableObject or no base class at all\r\n"
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1014
+      parentUniqueId: Assembly-CSharp-Editor.dll/StoryManagementTests/TurnManagementTests/[Assembly-CSharp-Editor][StoryManagementTests.TurnManagementTests.TurnManagerTests][suite]
+    - id: 1016
+      uniqueId: Assembly-CSharp-Editor.dll/StoryManagementTests/TurnManagementTests/TurnManagerTests/[Assembly-CSharp-Editor][StoryManagementTests.TurnManagementTests.TurnManagerTests.GetViableStories_IsCalled_RejectsUnviableStory]
+      name: GetViableStories_IsCalled_RejectsUnviableStory
+      fullName: StoryManagementTests.TurnManagementTests.TurnManagerTests.GetViableStories_IsCalled_RejectsUnviableStory
+      resultStatus: 1
+      duration: 0.0034479
+      messages: 
+      output: "You are trying to create a MonoBehaviour using the 'new' keyword.  This
+        is not allowed.  MonoBehaviours can only be added using AddComponent(). Alternatively,
+        your script can inherit from ScriptableObject or no base class at all\r\n"
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1014
+      parentUniqueId: Assembly-CSharp-Editor.dll/StoryManagementTests/TurnManagementTests/[Assembly-CSharp-Editor][StoryManagementTests.TurnManagementTests.TurnManagerTests][suite]
+    - id: 1019
+      uniqueId: Assembly-CSharp-Editor.dll/StoryManagementTests/TurnManagementTests/TurnManagerTests/[Assembly-CSharp-Editor][StoryManagementTests.TurnManagementTests.TurnManagerTests.StartNextStory_IsCalledWithAviableStory_GetsOneNewStory]
+      name: StartNextStory_IsCalledWithAviableStory_GetsOneNewStory
+      fullName: StoryManagementTests.TurnManagementTests.TurnManagerTests.StartNextStory_IsCalledWithAviableStory_GetsOneNewStory
+      resultStatus: 1
+      duration: 0.0052207
+      messages: 
+      output: "You are trying to create a MonoBehaviour using the 'new' keyword.  This
+        is not allowed.  MonoBehaviours can only be added using AddComponent(). Alternatively,
+        your script can inherit from ScriptableObject or no base class at all\r\n"
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1014
+      parentUniqueId: Assembly-CSharp-Editor.dll/StoryManagementTests/TurnManagementTests/[Assembly-CSharp-Editor][StoryManagementTests.TurnManagementTests.TurnManagerTests][suite]
+    - id: 1018
+      uniqueId: Assembly-CSharp-Editor.dll/StoryManagementTests/TurnManagementTests/TurnManagerTests/[Assembly-CSharp-Editor][StoryManagementTests.TurnManagementTests.TurnManagerTests.StartNextStory_IsCalledWithAviableStory_SetUpScene]
+      name: StartNextStory_IsCalledWithAviableStory_SetUpScene
+      fullName: StoryManagementTests.TurnManagementTests.TurnManagerTests.StartNextStory_IsCalledWithAviableStory_SetUpScene
+      resultStatus: 1
+      duration: 0.0035033
+      messages: 
+      output: "You are trying to create a MonoBehaviour using the 'new' keyword.  This
+        is not allowed.  MonoBehaviours can only be added using AddComponent(). Alternatively,
+        your script can inherit from ScriptableObject or no base class at all\r\n"
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1014
+      parentUniqueId: Assembly-CSharp-Editor.dll/StoryManagementTests/TurnManagementTests/[Assembly-CSharp-Editor][StoryManagementTests.TurnManagementTests.TurnManagerTests][suite]
+    - id: 1020
+      uniqueId: Assembly-CSharp-Editor.dll/StoryManagementTests/TurnManagementTests/TurnManagerTests/[Assembly-CSharp-Editor][StoryManagementTests.TurnManagementTests.TurnManagerTests.StartNextTurn_IsCalledWithNoAviableStory_EndsTurn]
+      name: StartNextTurn_IsCalledWithNoAviableStory_EndsTurn
+      fullName: StoryManagementTests.TurnManagementTests.TurnManagerTests.StartNextTurn_IsCalledWithNoAviableStory_EndsTurn
+      resultStatus: 1
+      duration: 0.01689
+      messages: 
+      output: "You are trying to create a MonoBehaviour using the 'new' keyword.  This
+        is not allowed.  MonoBehaviours can only be added using AddComponent(). Alternatively,
+        your script can inherit from ScriptableObject or no base class at all\r\n"
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1014
+      parentUniqueId: Assembly-CSharp-Editor.dll/StoryManagementTests/TurnManagementTests/[Assembly-CSharp-Editor][StoryManagementTests.TurnManagementTests.TurnManagerTests][suite]
+    m_ResultText: Orphanage (1,907s)
+    m_ResultStacktrace: 
+    m_TestListState:
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 2714b35a
+      m_LastClickedID: 1521685543
+      m_ExpandedIDs: dabbe59743010caea0ec9fc7fe0556d45ac4dfd92c756ae082ed1fe343a882e555e969e89e342ef92664750fb5b13e16b12e6e1a9033974436fb4b568d12a07dffffff7f
+      m_RenameOverlay:
+        m_UserAcceptedRename: 0
+        m_Name: 
+        m_OriginalName: 
+        m_EditFieldRect:
+          serializedVersion: 2
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+        m_UserData: 0
+        m_IsWaitingForDelay: 0
+        m_IsRenaming: 0
+        m_OriginalEventType: 11
+        m_IsRenamingFilename: 0
+        m_ClientGUIView: {fileID: 0}
+      m_SearchString: 
+    m_TestRunnerUIFilter:
+      PassedHidden: 0
+      FailedHidden: 0
+      NotRunHidden: 0
+      m_SearchString: 
+      selectedCategoryMask: 0
+      availableCategories:
+      - Uncategorized
+--- !u!114 &13
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12015, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Game
+    m_Image: {fileID: -2087823869225018852, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 349
+    y: 73
+    width: 1104
+    height: 531
+  m_ViewDataDictionary: {fileID: 0}
+  m_VSyncEnabled: 0
+  m_MaximizeOnPlay: 0
+  m_Gizmos: 0
+  m_Stats: 0
+  m_SelectedSizes: 00000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_TargetDisplay: 0
+  m_ZoomArea:
+    m_HRangeLocked: 0
+    m_VRangeLocked: 0
+    hZoomLockedByDefault: 0
+    vZoomLockedByDefault: 0
+    m_HBaseRangeMin: -552
+    m_HBaseRangeMax: 552
+    m_VBaseRangeMin: -257
+    m_VBaseRangeMax: 257
+    m_HAllowExceedBaseRangeMin: 1
+    m_HAllowExceedBaseRangeMax: 1
+    m_VAllowExceedBaseRangeMin: 1
+    m_VAllowExceedBaseRangeMax: 1
+    m_ScaleWithWindow: 0
+    m_HSlider: 0
+    m_VSlider: 0
+    m_IgnoreScrollWheelUntilClicked: 0
+    m_EnableMouseInput: 1
+    m_EnableSliderZoomHorizontal: 0
+    m_EnableSliderZoomVertical: 0
+    m_UniformScale: 1
+    m_UpDirection: 1
+    m_DrawArea:
+      serializedVersion: 2
+      x: 0
+      y: 17
+      width: 1104
+      height: 514
+    m_Scale: {x: 1, y: 1}
+    m_Translation: {x: 552, y: 257}
+    m_MarginLeft: 0
+    m_MarginRight: 0
+    m_MarginTop: 0
+    m_MarginBottom: 0
+    m_LastShownAreaInsideMargins:
+      serializedVersion: 2
+      x: -552
+      y: -257
+      width: 1104
+      height: 514
+    m_MinimalGUI: 1
+  m_defaultScale: 1
+  m_TargetTexture: {fileID: 0}
+  m_CurrentColorSpace: 0
+  m_LastWindowPixelSize: {x: 1104, y: 531}
+  m_ClearInEditMode: 1
+  m_NoCameraWarning: 1
+  m_LowResolutionForAspectRatios: 01000000000100000100
+  m_XRRenderMode: 0
+--- !u!114 &14
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12061, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Hierarchy
+    m_Image: {fileID: -590624980919486359, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 0
+    y: 73
+    width: 349
+    height: 531
+  m_ViewDataDictionary: {fileID: 0}
+  m_SceneHierarchy:
+    m_TreeViewState:
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 382c0000
+      m_LastClickedID: 0
+      m_ExpandedIDs: 66fbffff
+      m_RenameOverlay:
+        m_UserAcceptedRename: 0
+        m_Name: 
+        m_OriginalName: 
+        m_EditFieldRect:
+          serializedVersion: 2
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+        m_UserData: 0
+        m_IsWaitingForDelay: 0
+        m_IsRenaming: 0
+        m_OriginalEventType: 11
+        m_IsRenamingFilename: 0
+        m_ClientGUIView: {fileID: 8}
+      m_SearchString: 
+    m_ExpandedScenes: []
+    m_CurrenRootInstanceID: 0
+    m_LockTracker:
+      m_IsLocked: 0
+    m_CurrentSortingName: TransformSorting
+  m_WindowGUID: 73f5a5f6370c85649b999945058a39e4
+--- !u!114 &15
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12013, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Scene
+    m_Image: {fileID: 2318424515335265636, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 349
+    y: 73
+    width: 1104
+    height: 531
+  m_ViewDataDictionary: {fileID: 0}
+  m_ShowContextualTools: 0
+  m_WindowGUID: 0061c62a68158574abb0dcb37bae3176
+  m_Gizmos: 1
+  m_SceneIsLit: 1
+  m_SceneLighting: 1
+  m_2DMode: 1
+  m_isRotationLocked: 0
+  m_PlayAudio: 0
+  m_AudioPlay: 0
+  m_Position:
+    m_Target: {x: 0.16734439, y: -0.37259105, z: -0.6494284}
+    speed: 2
+    m_Value: {x: 0.16734439, y: -0.37259105, z: -0.6494284}
+  m_RenderMode: 0
+  m_CameraMode:
+    drawMode: 0
+    name: Shaded
+    section: Shading Mode
+  m_ValidateTrueMetals: 0
+  m_DoValidateTrueMetals: 0
+  m_SceneViewState:
+    showFog: 1
+    showMaterialUpdate: 0
+    showSkybox: 1
+    showFlares: 1
+    showImageEffects: 1
+    showParticleSystems: 1
+  grid:
+    xGrid:
+      m_Target: 0
+      speed: 2
+      m_Value: 0
+    yGrid:
+      m_Target: 0
+      speed: 2
+      m_Value: 0
+    zGrid:
+      m_Target: 1
+      speed: 2
+      m_Value: 1
+  m_Rotation:
+    m_Target: {x: 0, y: 0, z: 0, w: 1}
+    speed: 2
+    m_Value: {x: 0, y: 0, z: 0, w: 1}
+  m_Size:
+    m_Target: 13.88214
+    speed: 2
+    m_Value: 13.88214
+  m_Ortho:
+    m_Target: 1
+    speed: 2
+    m_Value: 1
+  m_CameraSettings:
+    m_Speed: 1
+    m_SpeedNormalized: 0.5
+    m_SpeedMin: 0.01
+    m_SpeedMax: 2
+    m_EasingEnabled: 1
+    m_EasingDuration: 0.4
+    m_AccelerationEnabled: 1
+    m_FieldOfView: 90
+    m_NearClip: 0.03
+    m_FarClip: 10000
+    m_DynamicClip: 1
+    m_OcclusionCulling: 0
+  m_ShowGlobalGrid: 1
+  m_LastSceneViewRotation: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+  m_LastSceneViewOrtho: 0
+  m_ReplacementShader: {fileID: 0}
+  m_ReplacementString: 
+  m_SceneVisActive: 1
+  m_LastLockedObject: {fileID: 0}
+  m_ViewIsLockedToObject: 0
+--- !u!114 &16
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12003, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Console
+    m_Image: {fileID: 111653112392082826, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 349
+    y: 73
+    width: 1104
+    height: 531
+  m_ViewDataDictionary: {fileID: 0}
+--- !u!114 &17
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12914, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Animator
+    m_Image: {fileID: 663490763026382308, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 498
+    y: 73
+    width: 924
+    height: 632
+  m_ViewDataDictionary: {fileID: 0}
+  m_ViewTransforms:
+    m_KeySerializationHelper: []
+    m_ValueSerializationHelper: []
+  m_PreviewAnimator: {fileID: 0}
+  m_AnimatorController: {fileID: 0}
+  m_BreadCrumbs: []
+  stateMachineGraph: {fileID: 0}
+  stateMachineGraphGUI: {fileID: 0}
+  blendTreeGraph: {fileID: 0}
+  blendTreeGraphGUI: {fileID: 0}
+  m_AutoLiveLink: 1
+  m_MiniTool: 0
+  m_LockTracker:
+    m_IsLocked: 0
+  m_CurrentEditor: 1
+  m_LayerEditor:
+    m_SelectedLayerIndex: 0
+--- !u!114 &18
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12014, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 230, y: 250}
+  m_MaxSize: {x: 10000, y: 10000}
+  m_TitleContent:
+    m_Text: Project
+    m_Image: {fileID: -7501376956915960154, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 0
+    y: 623
+    width: 1455
+    height: 378
+  m_ViewDataDictionary: {fileID: 0}
+  m_SearchFilter:
+    m_NameFilter: 
+    m_ClassNames: []
+    m_AssetLabels: []
+    m_AssetBundleNames: []
+    m_VersionControlStates: []
+    m_SoftLockControlStates: []
+    m_ReferencingInstanceIDs: 
+    m_SceneHandles: 
+    m_ShowAllHits: 0
+    m_SkipHidden: 0
+    m_SearchArea: 1
+    m_Folders:
+    - Assets/Scripts/DataManagement
+  m_ViewMode: 1
+  m_StartGridSize: 96
+  m_LastFolders:
+  - Assets/Scripts/DataManagement
+  m_LastFoldersGridSize: 96
+  m_LastProjectPath: D:\Unity Projects\Orphanage
+  m_LockTracker:
+    m_IsLocked: 0
+  m_FolderTreeState:
+    scrollPos: {x: 0, y: 122}
+    m_SelectedIDs: b8300000
+    m_LastClickedID: 12472
+    m_ExpandedIDs: 000000008a2d0000bc2d00005a2e0000622e00008c2e00002630000042300000e030000000ca9a3b
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 1
+      m_ClientGUIView: {fileID: 10}
+    m_SearchString: 
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+  m_AssetTreeState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: 000000008a2d0000bc2d00005a2e0000622e00008c2e00002630000042300000e0300000
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 1
+      m_ClientGUIView: {fileID: 0}
+    m_SearchString: 
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+  m_ListAreaState:
+    m_SelectedInstanceIDs: 
+    m_LastClickedInstanceID: 0
+    m_HadKeyboardFocusLastEvent: 1
+    m_ExpandedInstanceIDs: 642200006a2200006c220000ce2100009c2700009e2d00007c230000a62a00004e47ffff8a2300009824000066290000c645feff8e230000ca2400004a2a0000c8240000542a0000c62400005a2a0000b0460000aa4700007032000096250000ac250000d4250000c82700008a25000088250000000000009e2500003e260000d2250000
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 1
+      m_ClientGUIView: {fileID: 11}
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+    m_NewAssetIndexInList: -1
+    m_ScrollPosition: {x: 0, y: 0}
+    m_GridSize: 96
+  m_SkipHiddenPackages: 0
+  m_DirectoriesAreaWidth: 292
+--- !u!114 &19
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12019, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Inspector
+    m_Image: {fileID: -6905738622615590433, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 1455
+    y: 73
+    width: 463
+    height: 928
+  m_ViewDataDictionary: {fileID: 0}
+  m_OpenAddComponentMenu: 0
+  m_ObjectsLockedBeforeSerialization: []
+  m_InstanceIDsLockedBeforeSerialization: 
+  m_LockTracker:
+    m_IsLocked: 0
+  m_PreviewResizer:
+    m_CachedPref: 272
+    m_ControlHash: -371814159
+    m_PrefName: Preview_InspectorPreview
+  m_PreviewWindow: {fileID: 0}
+  m_LastInspectedObjectInstanceID: -1
+  m_LastVerticalScrollValue: 0
+--- !u!114 &20
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12079, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 300, y: 360}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Lighting
+    m_Image: {fileID: 8394858894532624064, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 1424
+    y: 73
+    width: 494
+    height: 928
+  m_ViewDataDictionary: {fileID: 0}
+--- !u!114 &21
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12090, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 300, y: 250}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Occlusion
+    m_Image: {fileID: -2243944637213960084, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 1424
+    y: 73
+    width: 494
+    height: 928
+  m_ViewDataDictionary: {fileID: 0}
+--- !u!114 &22
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12141, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 300, y: 360}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Navigation
+    m_Image: {fileID: 7874161543223113035, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 1424
+    y: 73
+    width: 494
+    height: 928
+  m_ViewDataDictionary: {fileID: 0}
+--- !u!114 &23
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12157, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Services
+    m_Image: {fileID: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 1424
+    y: 73
+    width: 494
+    height: 928
+  m_ViewDataDictionary: {fileID: 0}
+  m_InitialOpenURL: https://public-cdn.cloud.unity3d.com/editor/production/cloud/hub
+  m_GlobalObjectTypeName: 
+  m_RegisteredViewURLs:
+  - https://public-cdn.cloud.unity3d.com/editor/production/cloud/hub
+  - https://public-cdn.cloud.unity3d.com/editor/production/cloud/unet
+  - https://public-cdn.cloud.unity3d.com/editor/production/cloud/collab
+  m_RegisteredViewInstances:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
